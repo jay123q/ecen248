@@ -1,0 +1,10 @@
+#-----------------------------------------------------------
+# Vivado v2015.2 (64-bit)
+# SW Build 1266856 on Fri Jun 26 16:35:25 MDT 2015
+# IP Build 1264090 on Wed Jun 24 14:22:01 MDT 2015
+# Start of session at: Thu Oct  7 19:41:52 2021
+# Process ID: 22380
+# Log file: /home/ugrads/j/jay123q/ecen248/lab5/lab5.runs/impl_1/four_bit_mux.vdi
+# Journal file: /home/ugrads/j/jay123q/ecen248/lab5/lab5.runs/impl_1/vivado.jou
+#-----------------------------------------------------------
+source four_bit_mux.tcl -notrace

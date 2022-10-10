@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2018.3 (64-bit)
+# SW Build 2405991 on Thu Dec  6 23:38:27 MST 2018
+# IP Build 2404404 on Fri Dec  7 01:43:56 MST 2018
+# Start of session at: Thu Oct 14 19:00:38 2021
+# Process ID: 15588
+# Current directory: C:/Users/Joshua/Documents/Ecen248/Lab6/Lab6.runs/impl_1
+# Command line: vivado.exe -log four_two_encoder.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source four_two_encoder.tcl -notrace
+# Log file: C:/Users/Joshua/Documents/Ecen248/Lab6/Lab6.runs/impl_1/four_two_encoder.vdi
+# Journal file: C:/Users/Joshua/Documents/Ecen248/Lab6/Lab6.runs/impl_1\vivado.jou
+#-----------------------------------------------------------
+source four_two_encoder.tcl -notrace

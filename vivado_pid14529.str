@@ -1,0 +1,80 @@
+/*
+
+Vivado v2015.2 (64-bit)
+SW Build 1266856 on Fri Jun 26 16:35:25 MDT 2015
+Process ID: 14529
+
+Current time: 	10/7/21 6:18:06 PM CDT
+Time zone: 	Central Standard Time (America/Chicago)
+
+OS: CentOS Linux release 7.9.2009 (Core)
+Version: 3.10.0-1160.42.2.el7.x86_64
+Architecture: amd64
+Available processors (cores): 8
+
+DISPLAY: :1
+Screen size: 2560x1440
+Screen resolution (DPI): 121
+Available screens: 1
+Default font: family=Dialog,name=Dialog,style=plain,size=12
+
+Java version: 	1.8.0_25 64-bit
+Java home: 	/opt/coe/Xilinx/Vivado/2015.2/tps/lnx64/jre
+
+User name: 	jay123q
+User directory: /home/ugrads/j/jay123q/ecen248
+User country: 	US
+User language: 	en
+User locale: 	en_US
+
+Vivado preferences path: /home/ugrads/j/jay123q/.Xilinx/Vivado/2015.2/vivado.ini
+Vivado layouts directory: /home/ugrads/j/jay123q/.Xilinx/Vivado/2015.2/layouts/application
+
+GUI allocated memory:	140 MB
+GUI max memory:		3,052 MB
+Engine allocated memory: 4,850 MB
+
+*/
+
+// TclEventType: START_GUI
+// Tcl Message: start_gui 
+// [GUI Memory]: 38 MB (+37240kb) [00:00:04]
+// [Engine Memory]: 4,850 MB (+4933777kb) [00:00:04]
+// HMemoryUtils.trashcanNow. Engine heap size: 4,850 MB. GUI used memory: 21 MB. Current time: 10/7/21 6:18:09 PM CDT
+selectList(PAResourceEtoH.GettingStartedView_RECENT_PROJECTS, "/home/ugrads/j/jay123q/ecen248/lab5/lab5.xpr", 0); // t:v (JViewport:JComponent, cl:JFrame)
+// Opening Vivado Project: /home/ugrads/j/jay123q/ecen248/lab5/lab5.xpr. Version: Vivado v2015.2 
+// cp:P (cl:JFrame):  Open Project : addNotify
+// TclEventType: DEBUG_PROBE_SET_CHANGE
+// TclEventType: MSGMGR_MOVEMSG
+// TclEventType: FILE_SET_NEW
+// TclEventType: RUN_CURRENT
+// TclEventType: PROJECT_NEW
+// Tcl Message: open_project /home/ugrads/j/jay123q/ecen248/lab5/lab5.xpr 
+// TclEventType: PROJECT_NEW
+// [GUI Memory]: 42 MB (+2344kb) [00:00:08]
+// TclEventType: FILE_SET_OPTIONS_CHANGE
+// Tcl Message: open_project /home/ugrads/j/jay123q/ecen248/lab5/lab5.xpr 
+// Tcl Message: Scanning sources... Finished scanning sources 
+// Tcl Message: INFO: [IP_Flow 19-234] Refreshing IP repositories INFO: [IP_Flow 19-1704] No user IP repositories specified INFO: [IP_Flow 19-2313] Loaded Vivado IP repository '/opt/coe/Xilinx/Vivado/2015.2/data/ip'. 
+// TclEventType: FILE_SET_OPTIONS_CHANGE
+// Project name: lab5; location: /home/ugrads/j/jay123q/ecen248/lab5; part: xc7z010clg400-1
+dismissDialog("Open Project"); // cp:P (cl:JFrame)
+// [GUI Memory]: 48 MB (+4280kb) [00:00:10]
+// TclEventType: DG_UPDATE_GRAPH
+// TclEventType: DG_ANALYSIS_MSG_RESET
+// TclEventType: DG_UPDATE_GRAPH
+// TclEventType: DG_ANALYSIS_MSG_RESET
+// TclEventType: DG_UPDATE_GRAPH
+// a:a (cl:JFrame): Critical Messages: addNotify
+selectTree(PAResourceEtoH.FileSetPanel_FILE_SET_PANEL_TREE, "[root, Design Sources, Non-module Files]", 1, true); // A:k (H:JPanel, cl:JFrame) - Node
+// [GUI Memory]: 52 MB (+1889kb) [00:00:14]
+selectButton(PAResourceAtoD.CmdMsgDialog_OPEN_MESSAGES_VIEW, "Open Messages View"); // a:JButton (JPanel:JComponent, a:a)
+// Run Command: PAResourceCommand.PACommandNames_MESSAGE_WINDOW
+dismissDialog("Critical Messages"); // a:a (cl:JFrame)
+// TclEventType: DG_GRAPH_STALE
+// TclEventType: FILE_SET_CHANGE
+// TclEventType: DG_UPDATE_GRAPH
+// TclEventType: DG_ANALYSIS_MSG_RESET
+// TclEventType: DG_UPDATE_GRAPH
+// TclEventType: DG_ANALYSIS_MSG_RESET
+// TclEventType: DG_UPDATE_GRAPH
